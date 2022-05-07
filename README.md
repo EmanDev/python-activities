@@ -1,2 +1,2 @@
 # python-activities
-A compilation of our python activities at school
+My own repository meant for the collection of python activites from our subject Computer Programming.
