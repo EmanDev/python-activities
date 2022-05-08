@@ -7,7 +7,7 @@ import subprocess
 # We will also use dict literal instead of dict constructor since it faster as it uses build_map and store_map instead of the generic call_function.
 header = ['student_number', 'fname', 'lname', 'block']
 data = [
-    # Block A
+    # Block X
     {'student_number': '123456789', 'fname': 'firstname', 'lname': 'lastname', 'block': 'X'},
     {'student_number': '123456789', 'fname': 'firstname', 'lname': 'lastname', 'block': 'X'}
 ]
